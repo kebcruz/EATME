@@ -81,7 +81,7 @@
                 </div>
                 <!-- Botón de crear usuario -->
                 <div class="grid grid-cols-2 gap-4">
-                    <button type="submit" class="w-full bg-yellow-200 hover:bg-yellow-300 text-black font-bold py-2 px-4 rounded mt-4">Iniciar Sesión</button>
+                    <button type="submit" class="w-full bg-yellow-200 hover:bg-yellow-300 text-black font-bold py-2 px-4 rounded mt-4">Crear registro</button>
                     <a href="{{ route('login') }}" class="w-full bg-yellow-200 hover:bg-yellow-300 text-black font-bold py-2 px-4 rounded mt-4 text-center">Volver al Inicio</a>
                 </div>
             </form>
