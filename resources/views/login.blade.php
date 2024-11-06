@@ -43,7 +43,7 @@
 
         <!-- Mitad derecha - Imagen -->
         <div class="w-1/2 flex items-center justify-center">
-            <img src="{{ asset('imagenes/perfil.jpg') }}" alt="Imagen de inicio" class="h-auto max-w-full object-cover">
+            <img src="{{ asset('imagenes/plato.jpeg') }}" alt="Imagen de inicio" class="h-auto max-w-full object-cover">
         </div>
     </div>
 

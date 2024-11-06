@@ -14,7 +14,7 @@
         </a>
         <!--Citas agendadas-->
         <a href="{{ route('agenda') }}" class="flex flex-col items-center">
-            <img src="{{ asset('imagenes/comprar.png') }}" alt="Comprar" class="w-70 h-60 mb-2">
+            <img src="{{ asset('imagenes/agenda.png') }}" alt="Comprar" class="w-70 h-60 mb-2">
             <span class="text-lg font-medium text-gray-700">Citas agendadas</span>
         </a>
     </div>

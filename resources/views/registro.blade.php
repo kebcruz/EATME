@@ -89,7 +89,7 @@
 
         <!-- Parte derecha: imagen -->
         <div class="w-1/2 flex items-center justify-center">
-            <img src="{{ asset('ruta/a/tu/imagen.jpg') }}" alt="Imagen de registro" class="h-auto max-w-full object-cover">
+            <img src="{{ asset('imagenes/itvh.jpeg') }}" alt="Imagen de registro" class="h-auto max-w-full object-cover">
         </div>
     </div>
 </body>

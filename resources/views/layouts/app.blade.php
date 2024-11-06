@@ -36,7 +36,7 @@
             <div class="text-xl font-bold absolute left-1/2 transform -translate-x-1/2">EAT-ME</div>
             <div class="flex items-center space-x-4 absolute right-4">
                 <a href="{{ route('login') }}">
-                    <img src={{ asset('imagenes/perfil.jpg') }} alt="Perfil" class="w-10 h-10 rounded-full">
+                    <img src={{ asset('imagenes/perfil.png') }} alt="Perfil" class="w-10 h-10 rounded-full">
                 </a>
                 <img src={{ asset('imagenes/salida.png') }} alt="Salir" class="w-10 h-10">
             </div>
